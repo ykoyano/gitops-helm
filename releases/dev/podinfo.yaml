@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: ykoyano/podinfo:dev-hdtwcel9
+    image: ykoyano/podinfo:dev-8ngb4gmk
     replicaCount: 1
     hpa:
       enabled: false
